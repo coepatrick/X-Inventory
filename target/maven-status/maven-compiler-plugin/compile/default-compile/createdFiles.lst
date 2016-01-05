@@ -1,0 +1,6 @@
+com\vaadin\catalogue\backend\Part.class
+com\vaadin\catalogue\CatalogueUI$MyUIServlet.class
+com\vaadin\catalogue\CatalogueUI.class
+com\vaadin\catalogue\PartForm.class
+com\vaadin\catalogue\backend\PartService$1.class
+com\vaadin\catalogue\backend\PartService.class
